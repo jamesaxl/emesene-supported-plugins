@@ -1,0 +1,8 @@
+{
+    "name" : "Youtube",
+    "version" : 0.1,
+    "required emesene version" : "2.11.12",
+    "configurable" : false,
+    "description" : "Show youtube's video tumb",
+    "authors" : [["James Axl", "axlrose11@gmail.com"]]
+}
